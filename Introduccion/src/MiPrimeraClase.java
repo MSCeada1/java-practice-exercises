@@ -1,7 +1,7 @@
 public class MiPrimeraClase {
 
     public static void main(String[] args) {
-        mensaje("Hola mundo desde java");
+        mensaje("Mi primer Hola Mundo desde java");
     }
 
     public static void mensaje(String mensaje) {
