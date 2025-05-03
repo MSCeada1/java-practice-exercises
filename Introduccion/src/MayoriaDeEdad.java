@@ -12,6 +12,7 @@ public class MayoriaDeEdad {
         short year;
         System.out.println("¿En que año naciste?");
         year = entrada.nextShort();
+        entrada.close();
         return year;
     }
 
