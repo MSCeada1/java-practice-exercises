@@ -7,6 +7,10 @@ public class MayoriaDeEdad {
     static final int EDAD_MAXIMA = 18;
     static final int YEAR_ACTUAL = 2025;
 
+    public static void main(String[] args) {
+        mayoriaDeEdad();
+    }
+
     //El metodo yearNacimiento() se encarga de pedir el año en el que el usuario nació.
     public static short yearNacimiento() {
         short year;
@@ -24,9 +28,5 @@ public class MayoriaDeEdad {
             System.out.println("Eres mayor de edad");
         }
 
-    }
-
-    public static void main(String[] args) {
-        mayoriaDeEdad();
     }
 }
