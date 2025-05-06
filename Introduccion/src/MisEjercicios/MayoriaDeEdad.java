@@ -1,3 +1,5 @@
+package MisEjercicios;
+
 import java.util.Scanner;
 
 //El objetivo de este ejercicio es averiguar si el usuario es mayor de edad.
