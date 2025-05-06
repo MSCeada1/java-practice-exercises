@@ -3,7 +3,7 @@ package MisEjercicios;
 import java.util.Scanner;
 
 //El objetivo de este ejercicio es averiguar si el usuario es mayor de edad.
-public class MayoriaDeEdad {
+public class MyExercice_2 {
 
     static Scanner entrada = new Scanner(System.in);
     static final int EDAD_MAXIMA = 18;

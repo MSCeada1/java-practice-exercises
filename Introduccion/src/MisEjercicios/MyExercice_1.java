@@ -1,6 +1,6 @@
 package MisEjercicios;
 
-public class MiPrimeraClase {
+public class MyExercice_1 {
 
     public static void main(String[] args) {
         mensaje("Mi primer Hola Mundo desde java");
